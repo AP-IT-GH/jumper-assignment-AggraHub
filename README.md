@@ -66,6 +66,15 @@ In het eerste tabblad voer je het volgende commando uit: mlagents-learn config/J
 
 In het andere tabblad voer je het volgende commando uit: tensorboard --logdir results.
 
+## resultaten
+
+Als je alle stappen hebt gevolgd zou je een vergelijkbaar resultaat moeten bekomen
+
+![image](https://user-images.githubusercontent.com/104986603/233729266-2bd58cf4-c03a-4665-86aa-a093e31efab0.png)
+![image](https://user-images.githubusercontent.com/104986603/233729286-ab061f8d-0491-44e8-969d-1ca331637e1f.png)
+
+
+
 
 
 
